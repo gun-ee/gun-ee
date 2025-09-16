@@ -31,7 +31,7 @@
 
 ## Projects
 
-- **TripMate** – TypeScript 기반 여행 일정 서비스 (Next.js + Prisma)  
+- ✈TripMate(https://github.com/gun-ee/TripMate) – TypeScript 기반 여행 일정 서비스 (Next.js + Prisma)  
 - **다른 프로젝트** – 본인이 진행한 다른 프로젝트를 추가해보세요.
 
 ---
