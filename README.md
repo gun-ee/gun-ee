@@ -30,8 +30,8 @@
 ---
 
 ## Projects
-
-- ✈TripMate(https://github.com/gun-ee/TripMate) – TypeScript 기반 여행 일정 서비스 (Next.js + Prisma)  
+- 🐶[Petoty](https://github.com/gun-ee/Petory) – 반려 동물 케어 서비스 
+- ✈[TripMate](https://github.com/gun-ee/TripMate) – TypeScript 기반 여행 일정 서비스  
 - **다른 프로젝트** – 본인이 진행한 다른 프로젝트를 추가해보세요.
 
 ---
