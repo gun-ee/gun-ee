@@ -40,6 +40,6 @@
 
 > 꾸준한 커밋과 다양한 기술 스택으로 성장 중입니다.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gun-ee&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gun-ee&layout=compact&langs_count=5)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gun-ee&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gun-ee&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gun-ee&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gun-ee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
